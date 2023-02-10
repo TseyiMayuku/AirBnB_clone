@@ -139,11 +139,11 @@ EOF  help  quit
 
 At this time, there are no known bugs.
 
-##Authors
+## Authors
 
-Odurukwe Bob Uchenna <uchennabob@gmail.com>
+1. Odurukwe Bob Uchenna <uchennabob@gmail.com>
 
-Oritsetseyigbemi Mayuku
+2. Oritsetseyigbemi Mayuku
 
 ## License
 
