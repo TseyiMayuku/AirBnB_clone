@@ -139,6 +139,12 @@ EOF  help  quit
 
 At this time, there are no known bugs.
 
+##Authors
+
+Odurukwe Bob Uchenna <uchennabob@gmail.com>
+
+Oritsetseyigbemi Mayuku
+
 ## License
 
 **AirBnB Clone** is open source and free to download and use
