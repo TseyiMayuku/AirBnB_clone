@@ -143,7 +143,7 @@ At this time, there are no known bugs.
 
 1. Odurukwe Bob Uchenna <uchennabob@gmail.com>
 
-2. Oritsetseyigbemi Mayuku
+2. Oritsetseyigbemi Mayuku <mayukutseyi@gmail.com>
 
 ## License
 
