@@ -137,7 +137,7 @@ EOF  help  quit
 
 ## Bugs
 
-At this time, there are no known bugs.
+At this time, and here are no known bugs.
 
 ## Authors
 
